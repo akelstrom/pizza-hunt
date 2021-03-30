@@ -9,6 +9,8 @@ Instead of using a MySQL database, I used MongoDB, a document-based NoSQL databa
 
 ![Pizza hunt screenshot](pizzahunt.png)
 
+Please visit the deployed app [here](https://floating-beach-58222.herokuapp.com/).
+
 ## Built With
 
 * MongoDB
